@@ -9,7 +9,7 @@ Developer, student, lover of books and math.
 ### :runner: What I am currently doing :
 :books: Studying Data science at La Sapienza university <br>
 :man_office_worker: Working as a developer for <a href="https://baasbox.com/">Baasbox</a> <br>
-:seedling: learning *Node js* <br>
+:seedling: learning how to work with  *LLM* <br>
 :game_die: Pass all the difficult levels in the game <a href="https://en.wikipedia.org/wiki/Killer_sudoku">Killer Sudoku!</a>
 
 <h3 align="left">Connect with me:</h3>
