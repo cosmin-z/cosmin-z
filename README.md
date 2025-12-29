@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Cosmin</h1>
-<h3 align="center">A passionate backend developer and aspiring data scientist</h3>
+<h3 align="center">A passionate data scientist</h3>
 
 ### :man_technologist: About Me :
 Developer, student, lover of books and math.  
 
 ### :runner: What I am currently doing :
-:books: Studying Data science at La Sapienza university <br>
-:man_office_worker: Working as a developer for <a href="https://baasbox.com/">Baasbox</a> <br>
-:seedling: learning how to work with  *LLM* <br>
+:books: Studying the secret of life <br>
+:man_office_worker: Working as a Data Scientist for <a href="https://www.reply.com/whitehall-reply/it">Reply Whitehall</a> <br>
+:seedling: learning how to work with *Computer Vision* <br>
 :game_die: Pass all the difficult levels in the game <a href="https://en.wikipedia.org/wiki/Killer_sudoku">Killer Sudoku!</a>
 
 <h3 align="left">Connect with me:</h3>
